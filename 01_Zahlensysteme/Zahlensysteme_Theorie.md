@@ -8,12 +8,20 @@ Unser Zahlensystem wie wir es kennen. 1, 2, 3, 5, ...501, 502...
 - rechts ist das Bit mit dem kleinsten Wert
 - 8 Bits sind 1 Byte
 - eine IPV4 Adresse besteht immer aus 8 Bit (10.1.31.18)
+###### Binär addieren
+- 1011 + 1101 = 11000
+<br>
+```
+ 1011 (11)
+ 1101 (13)
+----------
+11000 (24)
+```
 
 ##### Hexadezimal
 Das Hexadezimalsystem besteht aus folgenden Zahlen/Zeichen: **1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F**. Man trifft dieses System zum Beispiel in IPv6 Adressen an.
 
 ###### Beispiel
+23 = 0001 0111 = 17
 
 ##### Oktal
-
-*Kommt noch mehr...*
